@@ -1,0 +1,22 @@
+{
+  "name": "gta-vice-city-quiz",
+  "version": "3.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7",
+    "@types/node": "^20.14.13"
+  },
+  "dependencies": {
+    "chalk": "^5.3.0",
+    "inquirer": "^9.2.21",
+    "typescript": "^5.4.5"
+  },
+  "description": ""
+}
